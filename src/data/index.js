@@ -13,4 +13,4 @@ function getNewSpicyFood() {
   return newSpicyFoods.shift();
 }
 
-export { spicyFoods, getNewSpicyFood };
+export { spicyFoods, getNewSpicyFood, newSpicyFoods };
